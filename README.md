@@ -1,3 +1,4 @@
-- [2022-11-Salinas-SoftwareEngineer-Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf)
-- [2023-11-Salinas-Blockchain-Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2023-11-Salinas-Blockchain-Resume.pdf)
+- [2025_Salinas_Tech_Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2025_Salinas_Tech_Resume.pdf)
 - [2024-Salinas-Tech-Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2024-Salinas-Resume-Tech.pdf)
+- [2023-11-Salinas-Blockchain-Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2023-11-Salinas-Blockchain-Resume.pdf)
+- [2022-11-Salinas-SoftwareEngineer-Resume.pdf](https://github.com/B-Salinas/resume-pdfs/blob/main/2022-11-Salinas-SoftwareEngineer-Resume.pdf)
